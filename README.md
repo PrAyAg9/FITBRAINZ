@@ -1,6 +1,6 @@
 # :beginner: ***FiTBraiNz*** :beginner:
 
-## TM – INVICTUS ##
+## TM – GROUP 70 ##
 Team members: <br/> 
 
  * Uttam kumar
