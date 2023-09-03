@@ -3,7 +3,7 @@
 ## TM – INVICTUS ##
 Team members: <br/> 
 
- * Rohit Bhat
+ * Uttam kumar
  * Harsh Niture
  * Chinmay Chougule
  * Goldy Gour
