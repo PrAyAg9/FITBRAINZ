@@ -1,4 +1,4 @@
-# :beginner: ***Swasthyam*** :beginner:
+# :beginner: ***FiTBraiNz*** :beginner:
 
 ## TM – INVICTUS ##
 Team members: <br/> 
