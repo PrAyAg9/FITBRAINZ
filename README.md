@@ -5,9 +5,9 @@ Team members: <br/>
 
  * Uttam kumar
  * Prayag Thakur
- * Harsh Niture
- * Chinmay Chougule
- * Goldy Gour
+ * Abhijeet Tiwari
+ * Anish kumar jaiswal
+ * Shashank kumar
 
 ## Theme: Open Innovation ##
 
