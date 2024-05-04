@@ -9,7 +9,7 @@ Team members: <br/>
  * Anish kumar jaiswal
  * Shashank kumar
 
-## Check our Website [Click here]() ##
+## Check our Website [Click here](https://prayag9.github.io/FITBRAINZ/) ##
 
 ## Theme: Open Innovation ##
 
